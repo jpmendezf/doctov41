@@ -1,68 +1,39 @@
 {
-  "project_info": {
-    "project_number": "460612178320",
-    "project_id": "doctro-c7aa1",
-    "storage_bucket": "doctro-c7aa1.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:460612178320:android:f2fba52a93014e8f3a2315",
-        "android_client_info": {
-          "package_name": "com.medicappcr.app"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDFKhxzRWZ5SLTKf1kVgjTxsdFqIdUXYbE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
+    "project_info": {
+        "project_number": "460612178320",
+        "project_id": "doctro-c7aa1",
+        "storage_bucket": "doctro-c7aa1.appspot.com"
     },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:460612178320:android:93da469167f23a883a2315",
-        "android_client_info": {
-          "package_name": "com.medicappcr.app.doctor"
-        }
-      },
-      "oauth_client": [
+    "client": [
         {
-          "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDFKhxzRWZ5SLTKf1kVgjTxsdFqIdUXYbE"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
-              "client_type": 3
+            "client_info": {
+                "mobilesdk_app_id": "1:460612178320:android:f2fba52a93014e8f3a2315",
+                "android_client_info": {
+                    "package_name": "com.medicappcr.app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDFKhxzRWZ5SLTKf1kVgjTxsdFqIdUXYbE"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "460612178320-cjhkfgrqqg9l3env6mokn0d5eafomqo0.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
             }
-          ]
         }
-      }
-    }
-  ],
-  "configuration_version": "1"
+    ],
+    "configuration_version": "1"
 }

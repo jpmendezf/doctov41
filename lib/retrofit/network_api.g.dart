@@ -8,7 +8,7 @@ part of 'network_api.dart';
 
 class _RestClient implements RestClient {
   _RestClient(this._dio, {this.baseUrl}) {
-    baseUrl ??= 'https://medicappcr.com/public/api/';
+    baseUrl ??= 'https://medicappcr.com/api/';
   }
 
   final Dio _dio;
