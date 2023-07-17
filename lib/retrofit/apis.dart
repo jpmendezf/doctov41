@@ -1,7 +1,7 @@
 
 class Apis {
 
-    static const String baseUrl = 'Enter_Your_Base_Url/public/api/';
+    static const String baseUrl = 'https://medicappcr.com/public/api/';
                                 // Please don't remove "/public/api/".
 
   static const String login = "doctor_login";
